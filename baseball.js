@@ -27,7 +27,7 @@ window.onload = function init() {
 
     document.body.setAttribute("style", "font-family: \"Comic Sans MS\";");
 
-    //this.document.body.style.backgroundImage = "url('/textures/field-sheet0.png')";
+
 
     tracker = document.createElement('p');
     tracker.setAttribute("style", "position: absolute; left: 0; top: 0; z-index: 1; font-size: 25pt; color: #444488; padding-left: 5px");
